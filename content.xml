@@ -1,0 +1,1630 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>neo</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>202611081157254HWXUW</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>2026110811572531MJZQ</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.6</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>Plan de Actuación Digital del IES Doctora Josefa de los Reyes 26/27</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Álvaro Moreno Santana</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>Plan de </value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>neo</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.6</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1794576623135</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_passScore</key>
+    <value>5</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_passScoreEveryActivity</key>
+    <value>false</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>976770aa-f2c6-4857-a376-34380e852e57</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>PAD.1. Marco institucional y fundamentación normativa</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>PAD.1. Marco institucional y fundamentación normativa</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>PAD.1. Marco institucional y fundamentación normativa</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>PAD.1. Marco institucional y fundamentación normativa</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>976770aa-f2c6-4857-a376-34380e852e57</odePageId>
+      <odeBlockId>block-mw7iz0af-nrt6cuzh6</odeBlockId>
+      <blockName></blockName>
+      <iconName>mi-account_balance</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>976770aa-f2c6-4857-a376-34380e852e57</odePageId>
+          <odeBlockId>block-mw7iz0af-nrt6cuzh6</odeBlockId>
+          <odeIdeviceId>idevice-1794123774516-etvyavwc1</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;"><span style="font-size: 12pt; color: #000080;">El Plan de Actuación Digital (PAD) del I.E.S. Dra. Josefa de los Reyes (código de centro 11701127, ubicado en Jerez de la Frontera, Cádiz) constituye el instrumento vertebrador para la transformación del centro en una organización educativa digitalmente competente. Este documento formaliza las líneas estratégicas actualizadas en el Sistema de Información Séneca para el curso escolar 2026/2027, integrando de manera coherente las orientaciones derivadas del diagnóstico del centro, las exigencias curriculares autonómicas y las directrices marcadas por los programas de cooperación territorial.</span><br /><span style="font-size: 12pt; color: #000080;">El marco normativo que ampara y regula el presente plan se fundamenta en la legislación andaluza y estatal en materia de digitalización educativa e innovación pedagógica:</span></p>
+<ul>
+<li style="text-align: justify;"><span style="font-size: 12pt; color: #000080;"><strong>Marcos de Competencia Digital en Andalucía:</strong> La Orden de 29 de marzo de 2021 establece los marcos de competencia digital en el sistema educativo no universitario de Andalucía, tomando como referencia europea el Marco para Organizaciones Educativas Digitalmente Competentes (#DigCompOrg), el Marco de Referencia de la Competencia Digital Docente (MRCDD) y el Marco Europeo de Competencia Digital para la Ciudadanía (#DigComp).</span></li>
+<li style="text-align: justify;"><span style="font-size: 12pt; color: #000080;"><strong>Impulso de la Competencia Digital y Código Escuela 4.0:</strong> La Resolución de 1 de agosto de 2025, de la Dirección General de Innovación y Formación del Profesorado, dicta las medidas para el desarrollo de la competencia digital y la implementación del Programa de Cooperación Territorial (PCT) Código Escuela 4.0 y los Proyectos STEAM 4.0. Esta norma establece los plazos de actualización del PAD en Séneca (del 1 al 30 de octubre) y regula las funciones de las coordinaciones TDE y STEAM 4.0, así como el acompañamiento de las Asesorías Técnicas de Innovación (ATI).</span></li>
+<li style="text-align: justify;"><span style="font-size: 12pt; color: #000080;"><strong>Integración Curricular y Desarrollo Competencial:</strong> La Orden de 30 de mayo de 2023, por la que se desarrolla el currículo correspondiente a la Educación Secundaria Obligatoria en Andalucía, mandata el desarrollo transversal de la competencia digital (descriptores CD1 a CD5), el pensamiento computacional, la robótica y el uso ético y sostenible de las tecnologías emergentes en las distintas materias y ámbitos.</span></li>
+<li style="text-align: justify;"><span style="font-size: 12pt; color: #000080;"><strong>Garantías de Protección de Datos y Propiedad Intelectual:</strong> Todas las actuaciones contempladas en este plan observan escrupulosamente lo dispuesto en la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales (LOPDGDD), así como el Real Decreto Legislativo 1/1996, de 12 de abril, por el que se aprueba el texto refundido de la Ley de Propiedad Intelectual, asegurando un entorno digital seguro y respetuoso con la privacidad.</span></li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1794123774516-etvyavwc1","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\"><span style=\"font-size: 12pt; color: #000080;\">El Plan de Actuación Digital (PAD) del I.E.S. Dra. Josefa de los Reyes (código de centro 11701127, ubicado en Jerez de la Frontera, Cádiz) constituye el instrumento vertebrador para la transformación del centro en una organización educativa digitalmente competente. Este documento formaliza las líneas estratégicas actualizadas en el Sistema de Información Séneca para el curso escolar 2026/2027, integrando de manera coherente las orientaciones derivadas del diagnóstico del centro, las exigencias curriculares autonómicas y las directrices marcadas por los programas de cooperación territorial.</span><br /><span style=\"font-size: 12pt; color: #000080;\">El marco normativo que ampara y regula el presente plan se fundamenta en la legislación andaluza y estatal en materia de digitalización educativa e innovación pedagógica:</span></p>\n<ul>\n<li style=\"text-align: justify;\"><span style=\"font-size: 12pt; color: #000080;\"><strong>Marcos de Competencia Digital en Andalucía:</strong> La Orden de 29 de marzo de 2021 establece los marcos de competencia digital en el sistema educativo no universitario de Andalucía, tomando como referencia europea el Marco para Organizaciones Educativas Digitalmente Competentes (#DigCompOrg), el Marco de Referencia de la Competencia Digital Docente (MRCDD) y el Marco Europeo de Competencia Digital para la Ciudadanía (#DigComp).</span></li>\n<li style=\"text-align: justify;\"><span style=\"font-size: 12pt; color: #000080;\"><strong>Impulso de la Competencia Digital y Código Escuela 4.0:</strong> La Resolución de 1 de agosto de 2025, de la Dirección General de Innovación y Formación del Profesorado, dicta las medidas para el desarrollo de la competencia digital y la implementación del Programa de Cooperación Territorial (PCT) Código Escuela 4.0 y los Proyectos STEAM 4.0. Esta norma establece los plazos de actualización del PAD en Séneca (del 1 al 30 de octubre) y regula las funciones de las coordinaciones TDE y STEAM 4.0, así como el acompañamiento de las Asesorías Técnicas de Innovación (ATI).</span></li>\n<li style=\"text-align: justify;\"><span style=\"font-size: 12pt; color: #000080;\"><strong>Integración Curricular y Desarrollo Competencial:</strong> La Orden de 30 de mayo de 2023, por la que se desarrolla el currículo correspondiente a la Educación Secundaria Obligatoria en Andalucía, mandata el desarrollo transversal de la competencia digital (descriptores CD1 a CD5), el pensamiento computacional, la robótica y el uso ético y sostenible de las tecnologías emergentes en las distintas materias y ámbitos.</span></li>\n<li style=\"text-align: justify;\"><span style=\"font-size: 12pt; color: #000080;\"><strong>Garantías de Protección de Datos y Propiedad Intelectual:</strong> Todas las actuaciones contempladas en este plan observan escrupulosamente lo dispuesto en la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales (LOPDGDD), así como el Real Decreto Legislativo 1/1996, de 12 de abril, por el que se aprueba el texto refundido de la Ley de Propiedad Intelectual, asegurando un entorno digital seguro y respetuoso con la privacidad.</span></li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mw7i2lnn-6xyowamnd</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>PAD.2. Diagnóstico integral de la Competencia Digital Educativa</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>PAD.2. Diagnóstico integral de la Competencia Digital Educativa</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>PAD.2. Diagnóstico integral de la Competencia Digital Educativa</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mw7i2lnn-6xyowamnd</odePageId>
+      <odeBlockId>block-mw7jb6tf-6svkpp92b</odeBlockId>
+      <blockName></blockName>
+      <iconName>mi-content_paste_search</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mw7i2lnn-6xyowamnd</odePageId>
+          <odeBlockId>block-mw7jb6tf-6svkpp92b</odeBlockId>
+          <odeIdeviceId>idevice-1794124342847-zhknt30e3</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;"><span style="font-size: 12pt; color: #000080;">El diseño de este plan parte del autodiagnóstico riguroso realizado a través del Informe de la Rúbrica TDE </span><span style="font-size: 12pt; color: #000080;">y el Informe de Centro disponibles en el Sistema de Información Séneca. En la evaluación efectuada, el </span><span style="font-size: 12pt; color: #000080;">I.E.S. Dra. Josefa de los Reyes ha alcanzado una puntuación global de 153,63 puntos sobre 300, lo que </span><span style="font-size: 12pt; color: #000080;">sitúa al centro en una fase de desarrollo consolidado en diversos indicadores, al tiempo que evidencia </span><span style="font-size: 12pt; color: #000080;">áreas prioritarias de intervención para avanzar hacia un modelo organizativo y pedagógico digitalmente </span><span style="font-size: 12pt; color: #000080;">maduro.</span></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1794124342847-zhknt30e3","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\"><span style=\"font-size: 12pt; color: #000080;\">El diseño de este plan parte del autodiagnóstico riguroso realizado a través del Informe de la Rúbrica TDE </span><span style=\"font-size: 12pt; color: #000080;\">y el Informe de Centro disponibles en el Sistema de Información Séneca. En la evaluación efectuada, el </span><span style=\"font-size: 12pt; color: #000080;\">I.E.S. Dra. Josefa de los Reyes ha alcanzado una puntuación global de 153,63 puntos sobre 300, lo que </span><span style=\"font-size: 12pt; color: #000080;\">sitúa al centro en una fase de desarrollo consolidado en diversos indicadores, al tiempo que evidencia </span><span style=\"font-size: 12pt; color: #000080;\">áreas prioritarias de intervención para avanzar hacia un modelo organizativo y pedagógico digitalmente </span><span style=\"font-size: 12pt; color: #000080;\">maduro.</span></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mw7i3exx-j1c4445bq</odePageId>
+  <odeParentPageId>page-mw7i2lnn-6xyowamnd</odeParentPageId>
+  <pageName>PAD.2.1. Anclajes y áreas consolidadas</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>PAD.2.1. Anclajes y áreas consolidadas</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>PAD.2.1. Anclajes y áreas consolidadas</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mw7i3exx-j1c4445bq</odePageId>
+      <odeBlockId>block-mw7jhuxn-jgkvu2fds</odeBlockId>
+      <blockName></blockName>
+      <iconName>mi-castle</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mw7i3exx-j1c4445bq</odePageId>
+          <odeBlockId>block-mw7jhuxn-jgkvu2fds</odeBlockId>
+          <odeIdeviceId>idevice-1794124654039-17r429le9</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <ul>
+<li style="text-align: justify;"><span style="font-size: 12pt; color: #000080;"><strong>Uso institucional de herramientas de gestión:</strong> La totalidad del claustro que imparte clase en la ESO utiliza de forma sistemática el cuaderno del profesorado de Séneca, combinándolo con el registro de ausencias y la consignación de calificaciones trimestrales, no pudiendo hacer uso del mismo los profesores técnicos del Ciclo Formativo de Grado Básico (CFGB).</span></li>
+<li style="text-align: justify;"><span style="font-size: 12pt; color: #000080;"><strong>Presencia y apertura digital:</strong> El centro cuenta con una presencia habitual en redes sociales mediante cuentas corporativas en las que se difunden los logros del alumnado, contando con la interacción de la comunidad educativa.</span></li>
+<li style="text-align: justify;"><span style="font-size: 12pt; color: #000080;"><strong>Digitalización administrativa y gestión de horarios:</strong> La gestión de la reserva de espacios físicos y recursos, así como los horarios y guardias del centro, se realizan mediante aplicaciones informáticas accesibles por internet. Los documentos obligatorios y relevantes del centro se encuentran digitalizados y disponibles online.</span></li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1794124654039-17r429le9","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<ul>\n<li style=\"text-align: justify;\"><span style=\"font-size: 12pt; color: #000080;\"><strong>Uso institucional de herramientas de gestión:</strong> La totalidad del claustro que imparte clase en la ESO utiliza de forma sistemática el cuaderno del profesorado de Séneca, combinándolo con el registro de ausencias y la consignación de calificaciones trimestrales, no pudiendo hacer uso del mismo los profesores técnicos del Ciclo Formativo de Grado Básico (CFGB).</span></li>\n<li style=\"text-align: justify;\"><span style=\"font-size: 12pt; color: #000080;\"><strong>Presencia y apertura digital:</strong> El centro cuenta con una presencia habitual en redes sociales mediante cuentas corporativas en las que se difunden los logros del alumnado, contando con la interacción de la comunidad educativa.</span></li>\n<li style=\"text-align: justify;\"><span style=\"font-size: 12pt; color: #000080;\"><strong>Digitalización administrativa y gestión de horarios:</strong> La gestión de la reserva de espacios físicos y recursos, así como los horarios y guardias del centro, se realizan mediante aplicaciones informáticas accesibles por internet. Los documentos obligatorios y relevantes del centro se encuentran digitalizados y disponibles online.</span></li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mw7i48kb-h4c8qiy2z</odePageId>
+  <odeParentPageId>page-mw7i2lnn-6xyowamnd</odeParentPageId>
+  <pageName>PAD.2.2. Necesidades prioritarias y puntos susceptibles de mejora</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>PAD.2.2. Necesidades prioritarias y puntos susceptibles de mejora</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>PAD.2.2. Necesidades prioritarias y puntos susceptibles de mejora</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mw7i48kb-h4c8qiy2z</odePageId>
+      <odeBlockId>block-mw7kns1g-9ct8hi1wy</odeBlockId>
+      <blockName></blockName>
+      <iconName>mi-trending_up</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mw7i48kb-h4c8qiy2z</odePageId>
+          <odeBlockId>block-mw7kns1g-9ct8hi1wy</odeBlockId>
+          <odeIdeviceId>idevice-1794126609842-f243xursu</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;"><span style="font-size: 12pt; color: #000080;">Es fundamental contextualizar que el diagnóstico inicial aquí recogido constituyó el punto de partida al comenzar la andadura del actual equipo directivo, por lo que la situación actual del centro ha evolucionado notablemente y se encuentra lejos de aquel escenario inicial.</span></p>
+<p style="text-align: justify;"><span style="font-size: 12pt; color: #000080;">Sin embargo, debido a la alta rotación y cambio de profesorado que se produce al inicio de cada curso escolar, el centro afronta el reto continuo de formar e integrar al nuevo personal para que adquiera y mantenga la cultura de uso digital consolidada de forma general en el I.E.S. Dra. Josefa de los Reyes.</span></p>
+<p style="text-align: justify;"><span style="font-size: 12pt; color: #000080;">Teniendo en cuenta este marco de acogida e integración de los nuevos miembros del claustro, se señalan las áreas de trabajo prioritarias en cada ámbito:</span></p>
+<ul>
+<li style="text-align: justify;"><span style="font-size: 12pt; color: #000080;"><strong>Ámbito I: Organización del Centro:</strong> Garantizar que la totalidad de las materias cuenten con un espacio estructurado en el entorno virtual de aprendizaje institucional (Moodle Centros), así como consolidar la guía de uso responsable de los equipos asignados y el protocolo formalizado para verificar la disponibilidad de medios digitales en el hogar y gestionar el sistema de préstamo de dispositivos (#EcoDigEdu / Puesto Educativo en el Hogar) para prevenir la brecha digital en el alumnado vulnerable.</span></li>
+<li style="text-align: justify;"><span style="font-size: 12pt; color: #000080;"><strong>Ámbito II: Información y Comunicación:</strong> Universalizar el uso de las herramientas integradas de Séneca para la totalidad de las comunicaciones internas del profesorado, afianzar el equipo de Community Manager con criterios normativos explícitos para la publicación de contenidos en redes sociales y consolidar iPasen como vía prioritaria de comunicación con las familias.</span></li>
+<li style="text-align: justify;"><span style="font-size: 12pt; color: #000080;"><strong>Ámbito III: Procesos de Enseñanza-Aprendizaje:</strong> Impulsar que la totalidad del claustro integre recursos tecnológicos en metodologías activas (Aprendizaje Basado en Proyectos, Flipped Learning, trabajo cooperativo), evalúe de forma transversal la competencia digital del alumnado y extienda el uso de portfolios digitales de evaluación, rúbricas interactivas y prácticas de autoevaluación y coevaluación.</span></li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1794126609842-f243xursu","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\"><span style=\"font-size: 12pt; color: #000080;\">Es fundamental contextualizar que el diagnóstico inicial aquí recogido constituyó el punto de partida al comenzar la andadura del actual equipo directivo, por lo que la situación actual del centro ha evolucionado notablemente y se encuentra lejos de aquel escenario inicial.</span></p>\n<p style=\"text-align: justify;\"><span style=\"font-size: 12pt; color: #000080;\">Sin embargo, debido a la alta rotación y cambio de profesorado que se produce al inicio de cada curso escolar, el centro afronta el reto continuo de formar e integrar al nuevo personal para que adquiera y mantenga la cultura de uso digital consolidada de forma general en el I.E.S. Dra. Josefa de los Reyes.</span></p>\n<p style=\"text-align: justify;\"><span style=\"font-size: 12pt; color: #000080;\">Teniendo en cuenta este marco de acogida e integración de los nuevos miembros del claustro, se señalan las áreas de trabajo prioritarias en cada ámbito:</span></p>\n<ul>\n<li style=\"text-align: justify;\"><span style=\"font-size: 12pt; color: #000080;\"><strong>Ámbito I: Organización del Centro:</strong> Garantizar que la totalidad de las materias cuenten con un espacio estructurado en el entorno virtual de aprendizaje institucional (Moodle Centros), así como consolidar la guía de uso responsable de los equipos asignados y el protocolo formalizado para verificar la disponibilidad de medios digitales en el hogar y gestionar el sistema de préstamo de dispositivos (#EcoDigEdu / Puesto Educativo en el Hogar) para prevenir la brecha digital en el alumnado vulnerable.</span></li>\n<li style=\"text-align: justify;\"><span style=\"font-size: 12pt; color: #000080;\"><strong>Ámbito II: Información y Comunicación:</strong> Universalizar el uso de las herramientas integradas de Séneca para la totalidad de las comunicaciones internas del profesorado, afianzar el equipo de Community Manager con criterios normativos explícitos para la publicación de contenidos en redes sociales y consolidar iPasen como vía prioritaria de comunicación con las familias.</span></li>\n<li style=\"text-align: justify;\"><span style=\"font-size: 12pt; color: #000080;\"><strong>Ámbito III: Procesos de Enseñanza-Aprendizaje:</strong> Impulsar que la totalidad del claustro integre recursos tecnológicos en metodologías activas (Aprendizaje Basado en Proyectos, Flipped Learning, trabajo cooperativo), evalúe de forma transversal la competencia digital del alumnado y extienda el uso de portfolios digitales de evaluación, rúbricas interactivas y prácticas de autoevaluación y coevaluación.</span></li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mw7i53m6-zoxxlu4ue</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>PAD.3. Gobernanza, estructura organizativa y roles</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>PAD.3. Gobernanza, estructura organizativa y roles</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>PAD.3. Gobernanza, estructura organizativa y roles</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mw7i53m6-zoxxlu4ue</odePageId>
+      <odeBlockId>block-mw7kzm7l-4573hu3f4</odeBlockId>
+      <blockName></blockName>
+      <iconName>mi-mitre</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mw7i53m6-zoxxlu4ue</odePageId>
+          <odeBlockId>block-mw7kzm7l-4573hu3f4</odeBlockId>
+          <odeIdeviceId>idevice-1794127162160-mzzqf61a0</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;"><span style="font-size: 12pt; color: #000080;">La ejecución y seguimiento del Plan de Actuación Digital en el I.E.S. Dra. Josefa de los Reyes descansa sobre una estructura de liderazgo centralizada en la que la Dirección del centro asume directamente las responsabilidades clave de coordinación pedagógico-tecnológica y difusión institucional:</span></p>
+<ul>
+<li style="text-align: justify;"><span style="font-size: 12pt; color: #000080;"><strong>Dirección del Centro (Coordinación TDE, STEAM 4.0 y Community Manager):</strong> La persona que ostenta la Dirección del centro asume de forma unificada las siguientes funciones y roles:</span>
+<ul>
+<li style="text-align: justify;"><span style="font-size: 12pt; color: #000080;"><strong>Coordinación TDE:</strong> Liderar el autodiagnóstico de la Competencia Digital del Centro (CDC) y docente (CDD), actualizar el PAD en el Sistema de Información Séneca, promover la seguridad y el uso ético de las redes y dinamizar los procesos de acreditación del claustro.</span></li>
+<li style="text-align: justify;"><span style="font-size: 12pt; color: #000080;"><strong>Coordinación STEAM 4.0:</strong> Coordinar la integración curricular del pensamiento computacional, la programación, la robótica y la inteligencia artificial, supervisar el desarrollo de las actuaciones del Programa Código Escuela 4.0 y actuar como enlace institucional con la red de Asesorías Técnicas de Innovación.</span></li>
+<li style="text-align: justify;"><span style="font-size: 12pt; color: #000080;"><strong>Community Manager:</strong> Gestionar de forma directa la creación y publicación de contenidos y entradas en las redes sociales corporativas y canales del centro, proyectando la vida académica y asegurando el cumplimiento estricto de la LOPDGDD.</span></li>
+</ul>
+</li>
+<li style="text-align: justify;"><span style="font-size: 12pt; color: #000080;"><strong>Asesorías Técnicas de Innovación (ATI):</strong> Red docente especializada de la Consejería de Desarrollo Educativo y Formación Profesional que presta soporte técnico y pedagógico personalizado, acompañando en el diseño de Situaciones de Aprendizaje STEAM 4.0 y Recursos Educativos Abiertos (REA).</span></li>
+<li style="text-align: justify;"><span style="font-size: 12pt; color: #000080;"><strong>Claustro de Profesorado y ETCP:</strong> Participación activa en la implantación de las Líneas de Actuación (Moodle Centros, diseño e integración de SDA multidisciplinares y evaluación competencial).</span></li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1794127162160-mzzqf61a0","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\"><span style=\"font-size: 12pt; color: #000080;\">La ejecución y seguimiento del Plan de Actuación Digital en el I.E.S. Dra. Josefa de los Reyes descansa sobre una estructura de liderazgo centralizada en la que la Dirección del centro asume directamente las responsabilidades clave de coordinación pedagógico-tecnológica y difusión institucional:</span></p>\n<ul>\n<li style=\"text-align: justify;\"><span style=\"font-size: 12pt; color: #000080;\"><strong>Dirección del Centro (Coordinación TDE, STEAM 4.0 y Community Manager):</strong> La persona que ostenta la Dirección del centro asume de forma unificada las siguientes funciones y roles:</span>\n<ul>\n<li style=\"text-align: justify;\"><span style=\"font-size: 12pt; color: #000080;\"><strong>Coordinación TDE:</strong> Liderar el autodiagnóstico de la Competencia Digital del Centro (CDC) y docente (CDD), actualizar el PAD en el Sistema de Información Séneca, promover la seguridad y el uso ético de las redes y dinamizar los procesos de acreditación del claustro.</span></li>\n<li style=\"text-align: justify;\"><span style=\"font-size: 12pt; color: #000080;\"><strong>Coordinación STEAM 4.0:</strong> Coordinar la integración curricular del pensamiento computacional, la programación, la robótica y la inteligencia artificial, supervisar el desarrollo de las actuaciones del Programa Código Escuela 4.0 y actuar como enlace institucional con la red de Asesorías Técnicas de Innovación.</span></li>\n<li style=\"text-align: justify;\"><span style=\"font-size: 12pt; color: #000080;\"><strong>Community Manager:</strong> Gestionar de forma directa la creación y publicación de contenidos y entradas en las redes sociales corporativas y canales del centro, proyectando la vida académica y asegurando el cumplimiento estricto de la LOPDGDD.</span></li>\n</ul>\n</li>\n<li style=\"text-align: justify;\"><span style=\"font-size: 12pt; color: #000080;\"><strong>Asesorías Técnicas de Innovación (ATI):</strong> Red docente especializada de la Consejería de Desarrollo Educativo y Formación Profesional que presta soporte técnico y pedagógico personalizado, acompañando en el diseño de Situaciones de Aprendizaje STEAM 4.0 y Recursos Educativos Abiertos (REA).</span></li>\n<li style=\"text-align: justify;\"><span style=\"font-size: 12pt; color: #000080;\"><strong>Claustro de Profesorado y ETCP:</strong> Participación activa en la implantación de las Líneas de Actuación (Moodle Centros, diseño e integración de SDA multidisciplinares y evaluación competencial).</span></li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mw7i5r7u-wuilnmo7p</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>PAD.4. Concreción estratégica de las líneas de actuación en Séneca</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>PAD.4. Concreción estratégica de las líneas de actuación en Séneca</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>PAD.4. Concreción estratégica de las líneas de actuación en Séneca</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mw7i5r7u-wuilnmo7p</odePageId>
+      <odeBlockId>block-mw7l6o43-t4dlw6ah8</odeBlockId>
+      <blockName></blockName>
+      <iconName>mi-target</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mw7i5r7u-wuilnmo7p</odePageId>
+          <odeBlockId>block-mw7l6o43-t4dlw6ah8</odeBlockId>
+          <odeIdeviceId>idevice-1794127491218-4jii2cc4c</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;"><span style="font-size: 12pt; color: #000080;">Con el fin de dar respuesta a las necesidades detectadas y cumplir con las exigencias del Sistema de Información Séneca, el I.E.S. Dra. Josefa de los Reyes establece una Línea de Actuación prioritaria por cada uno de los tres ámbitos de la Transformación Digital Educativa.</span></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1794127491218-4jii2cc4c","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\"><span style=\"font-size: 12pt; color: #000080;\">Con el fin de dar respuesta a las necesidades detectadas y cumplir con las exigencias del Sistema de Información Séneca, el I.E.S. Dra. Josefa de los Reyes establece una Línea de Actuación prioritaria por cada uno de los tres ámbitos de la Transformación Digital Educativa.</span></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mw7i6628-8iul5qmao</odePageId>
+  <odeParentPageId>page-mw7i5r7u-wuilnmo7p</odeParentPageId>
+  <pageName>PAD.4.1. Ámbito I: Organización del Centro</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>PAD.4.1. Ámbito I: Organización del Centro</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>PAD.4.1. Ámbito I: Organización del Centro</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>PAD.4.1. Ámbito I: Organización del Centro</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mw7i6628-8iul5qmao</odePageId>
+      <odeBlockId>block-mw7ltr66-ndbtr796r</odeBlockId>
+      <blockName></blockName>
+      <iconName>mi-cloud_circle</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mw7i6628-8iul5qmao</odePageId>
+          <odeBlockId>block-mw7ltr66-ndbtr796r</odeBlockId>
+          <odeIdeviceId>idevice-1794128568269-lek6p711m</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;"><span style="font-size: 18pt; color: #000080;"><strong>Línea de Actuación 1: Generalización del uso de la plataforma Moodle Centros por el profesorado y el alumnado</strong></span></p>
+<ul>
+<li style="text-align: justify;"><strong style="color: #000080; font-size: 12pt;">Descripción y justificación:</strong><span style="color: #000080; font-size: 12pt;"> Integración de Moodle Centros como el entorno virtual de aprendizaje (EVA) de referencia institucional para unificar las aulas virtuales del centro, superar la heterogeneidad de aplicaciones y garantizar un acceso equitativo e inclusivo en consonancia con el Diseño Universal para el Aprendizaje (DUA). Esta línea está vinculada directamente a la implementación del Proyecto STEAM 4.0.</span></li>
+<li style="text-align: justify;"><span style="font-size: 12pt; color: #000080;"><strong>Repercusión en la formación del profesorado:</strong> La capacitación y acompañamiento del profesorado se articulará a través de un modelo de ayuda horizontal entre pares, facilitando que los docentes acompañen directamente a sus compañeros en la creación y gestión diaria de las aulas virtuales.</span></li>
+<li style="text-align: justify;"><span style="font-size: 12pt; color: #000080;"><strong>Tareas de Intervención e implementación:</strong></span>
+<ol>
+<li style="text-align: justify;"><span style="font-size: 12pt; color: #000080;">Configuración e independización de las aulas virtuales de cada materia y nivel en Moodle Centros al inicio del curso.</span></li>
+<li style="text-align: justify;"><span style="font-size: 12pt; color: #000080;">Publicación regular de tareas, actividades evaluables y recursos didácticos para garantizar la continuidad pedagógica y el seguimiento del alumnado expulsado (canalizando la consulta formal de calificaciones exclusivamente a través de iPasen).</span></li>
+<li style="text-align: justify;"><span style="font-size: 12pt; color: #000080;">Inclusión en el Plan de Centro de las pautas para el uso responsable de los recursos digitales, formalizando el protocolo oficial sobre el uso de dispositivos tecnológicos por parte del alumnado.</span></li>
+</ol>
+</li>
+<li style="text-align: justify;"><span style="font-size: 12pt; color: #000080;"><strong>Criterios para la acreditación y certificación del Aula Virtual:</strong> Para verificar y certificar formalmente el uso de la plataforma Moodle Centros por parte del profesorado, el aula virtual de cada materia deberá cumplir obligatoriamente con los siguientes requisitos configurativos y de contenido:</span>
+<ul>
+<li style="text-align: justify;"><span style="font-size: 12pt; color: #000080;">Tener creada un aula virtual por cada asignatura impartida.</span></li>
+<li style="text-align: justify;"><span style="font-size: 12pt; color: #000080;">Estar configurada en modo visible para el alumnado.</span></li>
+<li style="text-align: justify;"><span style="font-size: 12pt; color: #000080;">Contar con una portada personalizada.</span></li>
+<li style="text-align: justify;"><span style="font-size: 12pt; color: #000080;">Tener cargado a la totalidad del alumnado del grupo.</span></li>
+<li style="text-align: justify;"><span style="font-size: 12pt; color: #000080;">Tener publicado al menos un recurso en formato vídeo.</span></li>
+<li style="text-align: justify;"><span style="font-size: 12pt; color: #000080;">Tener creada al menos una tarea evaluable.</span></li>
+<li style="text-align: justify;"><span style="font-size: 12pt; color: #000080;">Tener subido al menos un documento o recurso didáctico.</span></li>
+</ul>
+</li>
+<li style="text-align: justify;"><span style="font-size: 12pt; color: #000080;"><strong>Grupos responsables e impacto:</strong> Equipo Directivo, Coordinación TDE, Claustro de Profesorado y Alumnado.</span></li>
+<li style="text-align: justify;"><span style="font-size: 12pt; color: #000080;"><strong>Temporalización:</strong> Desarrollo continuado a lo largo del primer, segundo y tercer trimestre.</span></li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1794128568269-lek6p711m","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\"><span style=\"font-size: 18pt; color: #000080;\"><strong>Línea de Actuación 1: Generalización del uso de la plataforma Moodle Centros por el profesorado y el alumnado</strong></span></p>\n<ul>\n<li style=\"text-align: justify;\"><strong style=\"color: #000080; font-size: 12pt;\">Descripción y justificación:</strong><span style=\"color: #000080; font-size: 12pt;\"> Integración de Moodle Centros como el entorno virtual de aprendizaje (EVA) de referencia institucional para unificar las aulas virtuales del centro, superar la heterogeneidad de aplicaciones y garantizar un acceso equitativo e inclusivo en consonancia con el Diseño Universal para el Aprendizaje (DUA). Esta línea está vinculada directamente a la implementación del Proyecto STEAM 4.0.</span></li>\n<li style=\"text-align: justify;\"><span style=\"font-size: 12pt; color: #000080;\"><strong>Repercusión en la formación del profesorado:</strong> La capacitación y acompañamiento del profesorado se articulará a través de un modelo de ayuda horizontal entre pares, facilitando que los docentes acompañen directamente a sus compañeros en la creación y gestión diaria de las aulas virtuales.</span></li>\n<li style=\"text-align: justify;\"><span style=\"font-size: 12pt; color: #000080;\"><strong>Tareas de Intervención e implementación:</strong></span>\n<ol>\n<li style=\"text-align: justify;\"><span style=\"font-size: 12pt; color: #000080;\">Configuración e independización de las aulas virtuales de cada materia y nivel en Moodle Centros al inicio del curso.</span></li>\n<li style=\"text-align: justify;\"><span style=\"font-size: 12pt; color: #000080;\">Publicación regular de tareas, actividades evaluables y recursos didácticos para garantizar la continuidad pedagógica y el seguimiento del alumnado expulsado (canalizando la consulta formal de calificaciones exclusivamente a través de iPasen).</span></li>\n<li style=\"text-align: justify;\"><span style=\"font-size: 12pt; color: #000080;\">Inclusión en el Plan de Centro de las pautas para el uso responsable de los recursos digitales, formalizando el protocolo oficial sobre el uso de dispositivos tecnológicos por parte del alumnado.</span></li>\n</ol>\n</li>\n<li style=\"text-align: justify;\"><span style=\"font-size: 12pt; color: #000080;\"><strong>Criterios para la acreditación y certificación del Aula Virtual:</strong> Para verificar y certificar formalmente el uso de la plataforma Moodle Centros por parte del profesorado, el aula virtual de cada materia deberá cumplir obligatoriamente con los siguientes requisitos configurativos y de contenido:</span>\n<ul>\n<li style=\"text-align: justify;\"><span style=\"font-size: 12pt; color: #000080;\">Tener creada un aula virtual por cada asignatura impartida.</span></li>\n<li style=\"text-align: justify;\"><span style=\"font-size: 12pt; color: #000080;\">Estar configurada en modo visible para el alumnado.</span></li>\n<li style=\"text-align: justify;\"><span style=\"font-size: 12pt; color: #000080;\">Contar con una portada personalizada.</span></li>\n<li style=\"text-align: justify;\"><span style=\"font-size: 12pt; color: #000080;\">Tener cargado a la totalidad del alumnado del grupo.</span></li>\n<li style=\"text-align: justify;\"><span style=\"font-size: 12pt; color: #000080;\">Tener publicado al menos un recurso en formato vídeo.</span></li>\n<li style=\"text-align: justify;\"><span style=\"font-size: 12pt; color: #000080;\">Tener creada al menos una tarea evaluable.</span></li>\n<li style=\"text-align: justify;\"><span style=\"font-size: 12pt; color: #000080;\">Tener subido al menos un documento o recurso didáctico.</span></li>\n</ul>\n</li>\n<li style=\"text-align: justify;\"><span style=\"font-size: 12pt; color: #000080;\"><strong>Grupos responsables e impacto:</strong> Equipo Directivo, Coordinación TDE, Claustro de Profesorado y Alumnado.</span></li>\n<li style=\"text-align: justify;\"><span style=\"font-size: 12pt; color: #000080;\"><strong>Temporalización:</strong> Desarrollo continuado a lo largo del primer, segundo y tercer trimestre.</span></li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mw7i6so8-9x14fr3qk</odePageId>
+  <odeParentPageId>page-mw7i5r7u-wuilnmo7p</odeParentPageId>
+  <pageName>PAD.4.2. Ámbito II: Información y comunicación</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>PAD.4.2. Ámbito II: Información y comunicación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>PAD.4.2. Ámbito II: Información y comunicación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mw7i6so8-9x14fr3qk</odePageId>
+      <odeBlockId>block-mw7mc31k-ynpraojp1</odeBlockId>
+      <blockName></blockName>
+      <iconName>mi-brand_awareness</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mw7i6so8-9x14fr3qk</odePageId>
+          <odeBlockId>block-mw7mc31k-ynpraojp1</odeBlockId>
+          <odeIdeviceId>idevice-1794129423462-a89axmbfy</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;"><strong><span style="font-size: 12pt; color: #000080;"><span style="font-size: 18pt;">Línea de Actuación 1: Fomento y dinamización de las redes sociales corporativas del centro</span></span></strong></p>
+<ul>
+<li style="text-align: justify;"><span style="font-size: 12pt; color: #000080;"><strong>Descripción y justificación:</strong> Potenciación de los canales de comunicación externos e internos para proyectar la vida académica, difundir los logros del alumnado y mantener informada a la comunidad educativa mediante una estrategia comunicativa transparente y respetuosa con la normativa de protección de datos. Vinculada a la estrategia global STEAM 4.0.</span></li>
+<li style="text-align: justify;"><strong><span style="font-size: 12pt; color: #000080;">Tareas de intervención e implementación:</span></strong>
+<ol>
+<li style="text-align: justify;"><span style="font-size: 12pt; color: #000080;">Establecimiento de pautas claras para que el claustro conozca el procedimiento de publicación de noticias en redes sociales y pueda consultar el listado actualizado del alumnado que cuenta con consentimiento para la publicación de sus imágenes.</span></li>
+<li style="text-align: justify;"><span style="font-size: 12pt; color: #000080;">Publicación periódica de noticias de interés para familias, alumnado y antiguo alumnado (actividades complementarias, orientación formativa y reinserción laboral).</span></li>
+<li style="text-align: justify;"><span style="font-size: 12pt; color: #000080;">Consolidación de iPasen e iSéneca como vía prioritaria y obligatoria de comunicación telemática oficial con las familias.</span></li>
+</ol>
+</li>
+<li style="text-align: justify;"><span style="font-size: 12pt; color: #000080;"><strong>Mecanismo y objeto de evaluación:</strong> Publicación de al menos 15 entradas por trimestre (promedio superior a una publicación semanal). La evaluación se realizará mediante el análisis de estadísticas de interacción.</span></li>
+<li style="text-align: justify;"><span style="font-size: 12pt; color: #000080;"><strong>Grupos responsables e impacto:</strong> Equipo Directivo.</span></li>
+<li style="text-align: justify;"><span style="font-size: 12pt; color: #000080;"><strong>Temporalización:</strong> Aplicación continuada durante el primer, segundo y tercer trimestre.</span></li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1794129423462-a89axmbfy","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\"><strong><span style=\"font-size: 12pt; color: #000080;\"><span style=\"font-size: 18pt;\">Línea de Actuación 1: Fomento y dinamización de las redes sociales corporativas del centro</span></span></strong></p>\n<ul>\n<li style=\"text-align: justify;\"><span style=\"font-size: 12pt; color: #000080;\"><strong>Descripción y justificación:</strong> Potenciación de los canales de comunicación externos e internos para proyectar la vida académica, difundir los logros del alumnado y mantener informada a la comunidad educativa mediante una estrategia comunicativa transparente y respetuosa con la normativa de protección de datos. Vinculada a la estrategia global STEAM 4.0.</span></li>\n<li style=\"text-align: justify;\"><strong><span style=\"font-size: 12pt; color: #000080;\">Tareas de intervención e implementación:</span></strong>\n<ol>\n<li style=\"text-align: justify;\"><span style=\"font-size: 12pt; color: #000080;\">Establecimiento de pautas claras para que el claustro conozca el procedimiento de publicación de noticias en redes sociales y pueda consultar el listado actualizado del alumnado que cuenta con consentimiento para la publicación de sus imágenes.</span></li>\n<li style=\"text-align: justify;\"><span style=\"font-size: 12pt; color: #000080;\">Publicación periódica de noticias de interés para familias, alumnado y antiguo alumnado (actividades complementarias, orientación formativa y reinserción laboral).</span></li>\n<li style=\"text-align: justify;\"><span style=\"font-size: 12pt; color: #000080;\">Consolidación de iPasen e iSéneca como vía prioritaria y obligatoria de comunicación telemática oficial con las familias.</span></li>\n</ol>\n</li>\n<li style=\"text-align: justify;\"><span style=\"font-size: 12pt; color: #000080;\"><strong>Mecanismo y objeto de evaluación:</strong> Publicación de al menos 15 entradas por trimestre (promedio superior a una publicación semanal). La evaluación se realizará mediante el análisis de estadísticas de interacción.</span></li>\n<li style=\"text-align: justify;\"><span style=\"font-size: 12pt; color: #000080;\"><strong>Grupos responsables e impacto:</strong> Equipo Directivo.</span></li>\n<li style=\"text-align: justify;\"><span style=\"font-size: 12pt; color: #000080;\"><strong>Temporalización:</strong> Aplicación continuada durante el primer, segundo y tercer trimestre.</span></li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mw7i8cd8-tz4jxfqc5</odePageId>
+  <odeParentPageId>page-mw7i5r7u-wuilnmo7p</odeParentPageId>
+  <pageName>PAD.4.3. Ámbito III: Procesos de enseñanza-aprendizaje</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>PAD.4.3. Ámbito III: Procesos de enseñanza-aprendizaje</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>PAD.4.3. Ámbito III: Procesos de enseñanza-aprendizaje</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mw7i8cd8-tz4jxfqc5</odePageId>
+      <odeBlockId>block-mw7muzcd-29tslnpmt</odeBlockId>
+      <blockName></blockName>
+      <iconName>mi-clinical_notes</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mw7i8cd8-tz4jxfqc5</odePageId>
+          <odeBlockId>block-mw7muzcd-29tslnpmt</odeBlockId>
+          <odeIdeviceId>idevice-1794130305131-2nfmpokmj</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;"><span style="font-size: 12pt; color: #000080;"><strong><span style="font-size: 18pt;">Línea de Actuación 1: Diseño y aplicación de Situaciones de Aprendizaje (SDA) multidisciplinares integrando metodologías STEAM 4.0 y pensamiento computacional</span></strong></span></p>
+<ul>
+<li style="text-align: justify;"><span style="font-size: 12pt; color: #000080;"><strong>Descripción y justificación:</strong> Transformación de las prácticas de aula mediante el paso de la enseñanza transmisiva a metodologías activas (Aprendizaje Basado en Proyectos, trabajo cooperativo, Flipped Learning) que integren competencias de pensamiento computacional, programación, robótica y uso ético de la inteligencia artificial.</span></li>
+<li style="text-align: justify;"><span style="font-size: 12pt; color: #000080;"><strong>Repercusión en la formación del profesorado:</strong> Trabajo cooperativo en el Equipo Técnico de Coordinación Pedagógica (ETCP) y departamentos didácticos, autoformación guiada a partir de documentación interna del centro y tutoriales audiovisuales, y sesiones periódicas de aprendizaje entre iguales mediante mentoría interna.</span></li>
+<li style="text-align: justify;"><strong><span style="font-size: 12pt; color: #000080;">Tareas de intervención e implementación:</span></strong>
+<ol>
+<li style="text-align: justify;"><span style="font-size: 12pt; color: #000080;">Definición por parte del ETCP de temáticas transversales de interés general para la formulación de Situaciones de Aprendizaje competenciales.</span></li>
+<li style="text-align: justify;"><span style="font-size: 12pt; color: #000080;">Diseño e implementación en los departamentos didácticos de SDA multidisciplinares que integren recursos digitales, herramientas colaborativas en red (documentos compartidos, murales digitales, infografías) y el editor eXeLearning para la creación de Recursos Educativos Abiertos (REA).</span></li>
+</ol>
+</li>
+<li style="text-align: justify;"><span style="font-size: 12pt; color: #000080;"><strong>Mecanismo y objeto de evaluación:</strong> La evaluación se medirá mediante estadísticas del módulo de programación de Séneca.</span></li>
+<li style="text-align: justify;"><span style="font-size: 12pt; color: #000080;"><strong>Grupos responsables e impacto:</strong> Equipo Directivo, ETCP, Departamentos Didácticos, Claustro de Profesorado.</span></li>
+<li style="text-align: justify;"><span style="font-size: 12pt; color: #000080;"><strong>Temporalización:</strong> Despliegue en el primer, segundo y tercer trimestre.</span></li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1794130305131-2nfmpokmj","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\"><span style=\"font-size: 12pt; color: #000080;\"><strong><span style=\"font-size: 18pt;\">Línea de Actuación 1: Diseño y aplicación de Situaciones de Aprendizaje (SDA) multidisciplinares integrando metodologías STEAM 4.0 y pensamiento computacional</span></strong></span></p>\n<ul>\n<li style=\"text-align: justify;\"><span style=\"font-size: 12pt; color: #000080;\"><strong>Descripción y justificación:</strong> Transformación de las prácticas de aula mediante el paso de la enseñanza transmisiva a metodologías activas (Aprendizaje Basado en Proyectos, trabajo cooperativo, Flipped Learning) que integren competencias de pensamiento computacional, programación, robótica y uso ético de la inteligencia artificial.</span></li>\n<li style=\"text-align: justify;\"><span style=\"font-size: 12pt; color: #000080;\"><strong>Repercusión en la formación del profesorado:</strong> Trabajo cooperativo en el Equipo Técnico de Coordinación Pedagógica (ETCP) y departamentos didácticos, autoformación guiada a partir de documentación interna del centro y tutoriales audiovisuales, y sesiones periódicas de aprendizaje entre iguales mediante mentoría interna.</span></li>\n<li style=\"text-align: justify;\"><strong><span style=\"font-size: 12pt; color: #000080;\">Tareas de intervención e implementación:</span></strong>\n<ol>\n<li style=\"text-align: justify;\"><span style=\"font-size: 12pt; color: #000080;\">Definición por parte del ETCP de temáticas transversales de interés general para la formulación de Situaciones de Aprendizaje competenciales.</span></li>\n<li style=\"text-align: justify;\"><span style=\"font-size: 12pt; color: #000080;\">Diseño e implementación en los departamentos didácticos de SDA multidisciplinares que integren recursos digitales, herramientas colaborativas en red (documentos compartidos, murales digitales, infografías) y el editor eXeLearning para la creación de Recursos Educativos Abiertos (REA).</span></li>\n</ol>\n</li>\n<li style=\"text-align: justify;\"><span style=\"font-size: 12pt; color: #000080;\"><strong>Mecanismo y objeto de evaluación:</strong> La evaluación se medirá mediante estadísticas del módulo de programación de Séneca.</span></li>\n<li style=\"text-align: justify;\"><span style=\"font-size: 12pt; color: #000080;\"><strong>Grupos responsables e impacto:</strong> Equipo Directivo, ETCP, Departamentos Didácticos, Claustro de Profesorado.</span></li>\n<li style=\"text-align: justify;\"><span style=\"font-size: 12pt; color: #000080;\"><strong>Temporalización:</strong> Despliegue en el primer, segundo y tercer trimestre.</span></li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mw7i8y8i-u4b7jlqiy</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>PAD.5. Proyecto STEAM 4.0 y Programa Código Escuela 4.0</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>PAD.5. Proyecto STEAM 4.0 y Programa Código Escuela 4.0</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>PAD.5. Proyecto STEAM 4.0 y Programa Código Escuela 4.0</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mw7i8y8i-u4b7jlqiy</odePageId>
+      <odeBlockId>block-mw7ome5n-w8fwjtuwr</odeBlockId>
+      <blockName></blockName>
+      <iconName>mi-android</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mw7i8y8i-u4b7jlqiy</odePageId>
+          <odeBlockId>block-mw7ome5n-w8fwjtuwr</odeBlockId>
+          <odeIdeviceId>idevice-1794133263658-i763qk7ay</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;"><span style="font-size: 12pt; color: #000080;">En cumplimiento de la Resolución de 1 de agosto de 2025, el I.E.S. Dra. Josefa de los Reyes integra en su Plan de Actuación Digital el Proyecto STEAM 4.0 dentro del marco del PCT Código Escuela 4.0. Este proyecto persigue capacitar al alumnado en la comprensión y dominio de las tecnologías intensivas en datos, la robótica y la automatización.<br /></span></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1794133263658-i763qk7ay","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\"><span style=\"font-size: 12pt; color: #000080;\">En cumplimiento de la Resolución de 1 de agosto de 2025, el I.E.S. Dra. Josefa de los Reyes integra en su Plan de Actuación Digital el Proyecto STEAM 4.0 dentro del marco del PCT Código Escuela 4.0. Este proyecto persigue capacitar al alumnado en la comprensión y dominio de las tecnologías intensivas en datos, la robótica y la automatización.<br /></span></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mw7imzdt-p1brhuth0</odePageId>
+  <odeParentPageId>page-mw7i8y8i-u4b7jlqiy</odeParentPageId>
+  <pageName>PAD.5.1. Integración curricular y líneas prioritarias</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>PAD.5.1. Integración curricular y líneas prioritarias</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>PAD.5.1. Integración curricular y líneas prioritarias</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mw7imzdt-p1brhuth0</odePageId>
+      <odeBlockId>block-mw7oyrxf-8vvd1ng7o</odeBlockId>
+      <blockName></blockName>
+      <iconName>mi-automation</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mw7imzdt-p1brhuth0</odePageId>
+          <odeBlockId>block-mw7oyrxf-8vvd1ng7o</odeBlockId>
+          <odeIdeviceId>idevice-1794133841378-prmxceocx</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <ul>
+<li style="text-align: justify;"><span style="font-size: 12pt; color: #000080;"><strong>Pensamiento computacional y algorítmico: </strong>Descomposición de problemas complejos, modelización </span><span style="font-size: 12pt; color: #000080;">y diseño de diagramas de flujo aplicados a la resolución de retos interdisciplinares en las materias </span><span style="font-size: 12pt; color: #000080;">científicas y humanísticas.</span></li>
+<li style="text-align: justify;"><span style="font-size: 12pt; color: #000080;"><strong>Programación y robótica educativa:</strong> Utilización de lenguajes de programación por bloques y texto </span><span style="font-size: 12pt; color: #000080;">para el control de placas programables, sensores, actuadores y kits de robótica en el aula.</span></li>
+<li style="text-align: justify;"><span style="font-size: 12pt; color: #000080;"><strong>Uso ético de la inteligencia artificial: </strong>Alfabetización digital orientada a comprender el </span><span style="font-size: 12pt; color: #000080;">funcionamiento de los sistemas inteligentes, el tratamiento de metadatos, la ciberseguridad y la </span><span style="font-size: 12pt; color: #000080;">prevención de sesgos y riesgos digitales en red.</span></li>
+<li style="text-align: justify;"><span style="font-size: 12pt; color: #000080;"><strong>Creación de Recursos Educativos Abiertos (REA):</strong> Empleo prioritario de herramientas de autor en </span><span style="font-size: 12pt; color: #000080;">software libre como eXeLearning para el diseño de unidades didácticas y materiales interactivos </span><span style="font-size: 12pt; color: #000080;">publicables en repositorios institucionales.</span><br /></li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1794133841378-prmxceocx","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<ul>\n<li style=\"text-align: justify;\"><span style=\"font-size: 12pt; color: #000080;\"><strong>Pensamiento computacional y algorítmico: </strong>Descomposición de problemas complejos, modelización </span><span style=\"font-size: 12pt; color: #000080;\">y diseño de diagramas de flujo aplicados a la resolución de retos interdisciplinares en las materias </span><span style=\"font-size: 12pt; color: #000080;\">científicas y humanísticas.</span></li>\n<li style=\"text-align: justify;\"><span style=\"font-size: 12pt; color: #000080;\"><strong>Programación y robótica educativa:</strong> Utilización de lenguajes de programación por bloques y texto </span><span style=\"font-size: 12pt; color: #000080;\">para el control de placas programables, sensores, actuadores y kits de robótica en el aula.</span></li>\n<li style=\"text-align: justify;\"><span style=\"font-size: 12pt; color: #000080;\"><strong>Uso ético de la inteligencia artificial: </strong>Alfabetización digital orientada a comprender el </span><span style=\"font-size: 12pt; color: #000080;\">funcionamiento de los sistemas inteligentes, el tratamiento de metadatos, la ciberseguridad y la </span><span style=\"font-size: 12pt; color: #000080;\">prevención de sesgos y riesgos digitales en red.</span></li>\n<li style=\"text-align: justify;\"><span style=\"font-size: 12pt; color: #000080;\"><strong>Creación de Recursos Educativos Abiertos (REA):</strong> Empleo prioritario de herramientas de autor en </span><span style=\"font-size: 12pt; color: #000080;\">software libre como eXeLearning para el diseño de unidades didácticas y materiales interactivos </span><span style=\"font-size: 12pt; color: #000080;\">publicables en repositorios institucionales.</span><br /></li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mw7inw4o-u2ifvbno2</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>PAD.6. Plan de Formación Digital del profesorado y acreditación CDD</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>PAD.6. Plan de Formación Digital del profesorado y acreditación CDD</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>PAD.6. Plan de Formación Digital del profesorado y acreditación CDD</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mw7inw4o-u2ifvbno2</odePageId>
+      <odeBlockId>block-mw7p7sls-q8nu1e3nb</odeBlockId>
+      <blockName></blockName>
+      <iconName>mi-keyboard</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mw7inw4o-u2ifvbno2</odePageId>
+          <odeBlockId>block-mw7p7sls-q8nu1e3nb</odeBlockId>
+          <odeIdeviceId>idevice-1794134262159-ludvtv52c</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;"><span style="color: #000080; font-size: 12pt;">El éxito de la transformación digital del centro está estrechamente ligado al desarrollo de la Competencia Digital Docente (CDD) del claustro, estructurado según las áreas del Marco de Referencia (MRCDD).</span></p>
+<ul>
+<li style="text-align: justify;"><span style="color: #000080; font-size: 12pt;"><strong>Modalidades formativas:</strong> Se priorizarán las modalidades de autoformación e innovación colaborativa en el propio centro, articuladas a través de Grupos de Trabajo y sustentadas en un modelo de mentoría interna y ayuda horizontal entre pares, donde el profesorado con mayor competencia digital acompaña directamente a sus compañeros en el uso pedagógico de Moodle Centros, eXeLearning y herramientas STEAM.</span></li>
+<li style="text-align: justify;"><span style="color: #000080; font-size: 12pt;"><strong>Itinerarios de acreditación:</strong> Desde la Dirección/Coordinación se impulsará la inscripción y certificación de la competencia digital docente de los miembros del claustro en el Sistema de Información Séneca, persiguiendo elevar el porcentaje de profesorado acreditado en los niveles intermedios (B1 y B2).</span></li>
+<li style="text-align: justify;"><span style="color: #000080; font-size: 12pt;"><strong>Jornadas de intercambio y redes de aprendizaje:</strong> Se fomentará la participación del profesorado en jornadas de buenas prácticas, encuentros de innovación educativa y comunidades en red organizadas por los Centros del Profesorado (CEP) y el INTEF.</span></li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1794134262159-ludvtv52c","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\"><span style=\"color: #000080; font-size: 12pt;\">El éxito de la transformación digital del centro está estrechamente ligado al desarrollo de la Competencia Digital Docente (CDD) del claustro, estructurado según las áreas del Marco de Referencia (MRCDD).</span></p>\n<ul>\n<li style=\"text-align: justify;\"><span style=\"color: #000080; font-size: 12pt;\"><strong>Modalidades formativas:</strong> Se priorizarán las modalidades de autoformación e innovación colaborativa en el propio centro, articuladas a través de Grupos de Trabajo y sustentadas en un modelo de mentoría interna y ayuda horizontal entre pares, donde el profesorado con mayor competencia digital acompaña directamente a sus compañeros en el uso pedagógico de Moodle Centros, eXeLearning y herramientas STEAM.</span></li>\n<li style=\"text-align: justify;\"><span style=\"color: #000080; font-size: 12pt;\"><strong>Itinerarios de acreditación:</strong> Desde la Dirección/Coordinación se impulsará la inscripción y certificación de la competencia digital docente de los miembros del claustro en el Sistema de Información Séneca, persiguiendo elevar el porcentaje de profesorado acreditado en los niveles intermedios (B1 y B2).</span></li>\n<li style=\"text-align: justify;\"><span style=\"color: #000080; font-size: 12pt;\"><strong>Jornadas de intercambio y redes de aprendizaje:</strong> Se fomentará la participación del profesorado en jornadas de buenas prácticas, encuentros de innovación educativa y comunidades en red organizadas por los Centros del Profesorado (CEP) y el INTEF.</span></li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mw7ioo3k-xjwzrnra1</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>PAD.7. Sistema de evaluación, cuadro de mando e indicadores de impacto</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>PAD.7. Sistema de evaluación, cuadro de mando e indicadores de impacto</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>PAD.7. Sistema de evaluación, cuadro de mando e indicadores de impacto</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mw7ioo3k-xjwzrnra1</odePageId>
+      <odeBlockId>block-mw7pg7zx-c9wxwp1uz</odeBlockId>
+      <blockName></blockName>
+      <iconName>mi-balance</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mw7ioo3k-xjwzrnra1</odePageId>
+          <odeBlockId>block-mw7pg7zx-c9wxwp1uz</odeBlockId>
+          <odeIdeviceId>idevice-1794134655356-6fak5ctvm</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;"><span style="font-size: 12pt; color: #000080;">La evaluación del Plan de Actuación Digital se concibe como un proceso continuo y formativo que permite medir el impacto real de las medidas adoptadas y realizar los ajustes oportunos a lo largo del curso escolar.<br /></span></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1794134655356-6fak5ctvm","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\"><span style=\"font-size: 12pt; color: #000080;\">La evaluación del Plan de Actuación Digital se concibe como un proceso continuo y formativo que permite medir el impacto real de las medidas adoptadas y realizar los ajustes oportunos a lo largo del curso escolar.<br /></span></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mw7ipdwf-v81ru0sw8</odePageId>
+  <odeParentPageId>page-mw7ioo3k-xjwzrnra1</odeParentPageId>
+  <pageName>PAD.7.1 Cuadro de mando de indicadores cuantitativos</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>PAD.7.1 Cuadro de mando de indicadores cuantitativos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>PAD.7.1 Cuadro de mando de indicadores cuantitativos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mw7ipdwf-v81ru0sw8</odePageId>
+      <odeBlockId>block-mw7piw5x-x6n3bxcc5</odeBlockId>
+      <blockName></blockName>
+      <iconName>mi-rule</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mw7ipdwf-v81ru0sw8</odePageId>
+          <odeBlockId>block-mw7piw5x-x6n3bxcc5</odeBlockId>
+          <odeIdeviceId>idevice-1794134779988-b9p2qma9b</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div class="pad-cuadro-mando">
+<p></p>
+<table style="width: 100%; border-collapse: collapse; margin-top: 15px; font-family: Arial, sans-serif; font-size: 14px; color: #333333; height: 356.2px;">
+<thead>
+<tr style="background-color: #1f4e78; color: #ffffff; text-align: left; height: 41.8px;">
+<th style="padding: 10px; border: 1px solid #dddddd; width: 18%; height: 41.8px;">Ámbito PAD</th>
+<th style="padding: 10px; border: 1px solid #dddddd; width: 42%; height: 41.8px;">Indicador de Logro / Meta Cuantitativa</th>
+<th style="padding: 10px; border: 1px solid #dddddd; width: 25%; height: 41.8px;">Herramienta de Verificación</th>
+<th style="padding: 10px; border: 1px solid #dddddd; width: 15%; height: 41.8px;">Periodicidad</th>
+</tr>
+</thead>
+<tbody>
+<tr style="background-color: #ffffff; height: 104.8px;">
+<td style="padding: 10px; border: 1px solid #dddddd; font-weight: bold; text-align: center; vertical-align: middle; height: 104.8px;">I. Organización del Centro</td>
+<td style="padding: 10px; border: 1px solid #dddddd; vertical-align: top; text-align: justify; height: 104.8px;"><strong>Generalización de Moodle Centros:</strong> 100% de las materias con aula activa en modo visible, portada personalizada, alumnado cargado, vídeo, tarea y documento subido. Uso regular para el seguimiento del alumnado expulsado.</td>
+<td style="padding: 10px; border: 1px solid #dddddd; vertical-align: middle; height: 104.8px; text-align: center;">Panel de Control de Moodle Centros / Séneca</td>
+<td style="padding: 10px; border: 1px solid #dddddd; vertical-align: middle; height: 104.8px; text-align: center;">Trimestral</td>
+</tr>
+<tr style="background-color: #ffffff; text-align: center; height: 104.8px;">
+<td style="padding: 10px; border: 1px solid #dddddd; font-weight: bold; vertical-align: middle; text-align: center; height: 104.8px;">II. Información y Comunicación</td>
+<td style="padding: 10px; border: 1px solid #dddddd; vertical-align: top; height: 104.8px;"><strong>Redes Sociales Corporativas:</strong> Publicación de <strong>al menos 15 entradas por trimestre</strong> (promedio superior a una publicación semanal) difundiendo logros y actividades, previa verificación de consentimientos de imagen.</td>
+<td style="padding: 10px; border: 1px solid #dddddd; vertical-align: middle; height: 104.8px; text-align: center;">Estadísticas de RRSS / Informe del Community Manager</td>
+<td style="padding: 10px; border: 1px solid #dddddd; vertical-align: middle; height: 104.8px; text-align: center;">Trimestral</td>
+</tr>
+<tr style="background-color: #ffffff; text-align: center; height: 104.8px;">
+<td style="padding: 10px; border: 1px solid #dddddd; font-weight: bold; vertical-align: middle; text-align: center; height: 104.8px;">III. Procesos de Enseñanza-Aprendizaje</td>
+<td style="padding: 10px; border: 1px solid #dddddd; vertical-align: top; text-align: justify; height: 104.8px;"><strong>Situaciones de Aprendizaje (SDA):</strong> Participación de <strong>al menos el 75% del profesorado de ESO</strong> en el diseño y aplicación trimestral de SDA multidisciplinares con metodologías STEAM 4.0.</td>
+<td style="padding: 10px; border: 1px solid #dddddd; vertical-align: middle; height: 104.8px; text-align: center;">Estadísticas del módulo de programación de Séneca</td>
+<td style="padding: 10px; border: 1px solid #dddddd; vertical-align: middle; height: 104.8px; text-align: center;">Trimestral</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1794134779988-b9p2qma9b","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div class=\"pad-cuadro-mando\">\n<p></p>\n<table style=\"width: 100%; border-collapse: collapse; margin-top: 15px; font-family: Arial, sans-serif; font-size: 14px; color: #333333; height: 356.2px;\">\n<thead>\n<tr style=\"background-color: #1f4e78; color: #ffffff; text-align: left; height: 41.8px;\">\n<th style=\"padding: 10px; border: 1px solid #dddddd; width: 18%; height: 41.8px;\">Ámbito PAD</th>\n<th style=\"padding: 10px; border: 1px solid #dddddd; width: 42%; height: 41.8px;\">Indicador de Logro / Meta Cuantitativa</th>\n<th style=\"padding: 10px; border: 1px solid #dddddd; width: 25%; height: 41.8px;\">Herramienta de Verificación</th>\n<th style=\"padding: 10px; border: 1px solid #dddddd; width: 15%; height: 41.8px;\">Periodicidad</th>\n</tr>\n</thead>\n<tbody>\n<tr style=\"background-color: #ffffff; height: 104.8px;\">\n<td style=\"padding: 10px; border: 1px solid #dddddd; font-weight: bold; text-align: center; vertical-align: middle; height: 104.8px;\">I. Organización del Centro</td>\n<td style=\"padding: 10px; border: 1px solid #dddddd; vertical-align: top; text-align: justify; height: 104.8px;\"><strong>Generalización de Moodle Centros:</strong> 100% de las materias con aula activa en modo visible, portada personalizada, alumnado cargado, vídeo, tarea y documento subido. Uso regular para el seguimiento del alumnado expulsado.</td>\n<td style=\"padding: 10px; border: 1px solid #dddddd; vertical-align: middle; height: 104.8px; text-align: center;\">Panel de Control de Moodle Centros / Séneca</td>\n<td style=\"padding: 10px; border: 1px solid #dddddd; vertical-align: middle; height: 104.8px; text-align: center;\">Trimestral</td>\n</tr>\n<tr style=\"background-color: #ffffff; text-align: center; height: 104.8px;\">\n<td style=\"padding: 10px; border: 1px solid #dddddd; font-weight: bold; vertical-align: middle; text-align: center; height: 104.8px;\">II. Información y Comunicación</td>\n<td style=\"padding: 10px; border: 1px solid #dddddd; vertical-align: top; height: 104.8px;\"><strong>Redes Sociales Corporativas:</strong> Publicación de <strong>al menos 15 entradas por trimestre</strong> (promedio superior a una publicación semanal) difundiendo logros y actividades, previa verificación de consentimientos de imagen.</td>\n<td style=\"padding: 10px; border: 1px solid #dddddd; vertical-align: middle; height: 104.8px; text-align: center;\">Estadísticas de RRSS / Informe del Community Manager</td>\n<td style=\"padding: 10px; border: 1px solid #dddddd; vertical-align: middle; height: 104.8px; text-align: center;\">Trimestral</td>\n</tr>\n<tr style=\"background-color: #ffffff; text-align: center; height: 104.8px;\">\n<td style=\"padding: 10px; border: 1px solid #dddddd; font-weight: bold; vertical-align: middle; text-align: center; height: 104.8px;\">III. Procesos de Enseñanza-Aprendizaje</td>\n<td style=\"padding: 10px; border: 1px solid #dddddd; vertical-align: top; text-align: justify; height: 104.8px;\"><strong>Situaciones de Aprendizaje (SDA):</strong> Participación de <strong>al menos el 75% del profesorado de ESO</strong> en el diseño y aplicación trimestral de SDA multidisciplinares con metodologías STEAM 4.0.</td>\n<td style=\"padding: 10px; border: 1px solid #dddddd; vertical-align: middle; height: 104.8px; text-align: center;\">Estadísticas del módulo de programación de Séneca</td>\n<td style=\"padding: 10px; border: 1px solid #dddddd; vertical-align: middle; height: 104.8px; text-align: center;\">Trimestral</td>\n</tr>\n</tbody>\n</table>\n</div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mw7iq1o7-gwkuufw88</odePageId>
+  <odeParentPageId>page-mw7ioo3k-xjwzrnra1</odeParentPageId>
+  <pageName>PAD.7.2 Proceso de certificación y seguimiento trimestral</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>PAD.7.2 Proceso de certificación y seguimiento trimestral</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>PAD.7.2 Proceso de certificación y seguimiento trimestral</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mw7iq1o7-gwkuufw88</odePageId>
+      <odeBlockId>block-mw7ps0fv-v1adaa3o3</odeBlockId>
+      <blockName></blockName>
+      <iconName>mi-rewarded_ads</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mw7iq1o7-gwkuufw88</odePageId>
+          <odeBlockId>block-mw7ps0fv-v1adaa3o3</odeBlockId>
+          <odeIdeviceId>idevice-1794135205432-8nwj4qhic</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;"><span style="font-size: 12pt; color: #000080;">Conforme a lo estipulado en la Resolución de 1 de agosto de 2025, la persona que desempeña la Coordinación STEAM 4.0 elaborará informes mensuales sobre el desarrollo del proyecto que se consolidarán en informes trimestrales generados por Séneca. La Dirección del Centro verificará trimestralmente estos avances para su firma y posterior remisión. La evaluación final del PAD quedará reflejada en la Memoria de Autoevaluación del Centro al término del curso académico.<br /></span></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1794135205432-8nwj4qhic","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\"><span style=\"font-size: 12pt; color: #000080;\">Conforme a lo estipulado en la Resolución de 1 de agosto de 2025, la persona que desempeña la Coordinación STEAM 4.0 elaborará informes mensuales sobre el desarrollo del proyecto que se consolidarán en informes trimestrales generados por Séneca. La Dirección del Centro verificará trimestralmente estos avances para su firma y posterior remisión. La evaluación final del PAD quedará reflejada en la Memoria de Autoevaluación del Centro al término del curso académico.<br /></span></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
